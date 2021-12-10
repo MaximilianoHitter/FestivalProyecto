@@ -2,6 +2,11 @@
 deployment https://agitated-benz-01e69b.netlify.app/
 
 Este proyecto fue llevado a cabo con un curso de Udemy.
+Este proyecto se ha realizado con buenas prácticas y de manera que sea responsive frente a las siguientes resoluciones:
+-telefono: 480px
+-tablet: 768px
+-desktop: 992px
+-desktopXL: 1200px
 Se han utlizado las siguientes herramientas:
 -Código HTML
 -Código CSS
