@@ -37,3 +37,5 @@ Se han utlizado las siguientes herramientas:
   "gulp-sourcemaps": "^3.0.0",
   "gulp-webp": "^4.0.1",
   "postcss": "^8.4.4"
+  
+  PD: Para poder correr las tareas de gulp desde la terminal, dentro de VSCode, se tuvieron que setear como Unrestricted las políticas de ejecución desde la powershell (como administrador).
